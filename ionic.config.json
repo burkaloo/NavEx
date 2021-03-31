@@ -1,0 +1,7 @@
+{
+  "name": "NavEx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
